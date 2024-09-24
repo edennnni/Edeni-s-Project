@@ -45,11 +45,8 @@ section {
 
 .gallery {
     display: flex;
-    justify-content: space-between;
-}
-
-.gallery-item {
-    text-align: center;
+    justify-content: space-between
+    text-align center;
 }
 
 form {
